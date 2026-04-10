@@ -16,7 +16,7 @@ This repository contains my latest resume.
 
 ## 📫 Contact
 
-* Email: bansodeyash18@gmail.com(mailto:your-email@example.com)
+* Email: bansodeyash18@gmail.com
 * LinkedIn: www.linkedin.com/in/yash-bansode-750bb1344
 ---
 
